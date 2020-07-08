@@ -1,7 +1,14 @@
 import React from 'react';
 
+import GlobalStyles from './styles/GlobalStyles';
+
 function App() {
-  return <h1>amor</h1>;
+  return (
+    <>
+      <GlobalStyles />
+      <h1>amor</h1>
+    </>
+  );
 }
 
 export default App;
