@@ -1,9 +1,21 @@
 import React from 'react';
 
-// import { Container } from './styles';
+import Main from '../Main';
+import SideBar from '../SideBar';
+import MenuBar from '../MenuBar';
+
+import { Container, Warpper } from './styles';
 
 const Layout: React.FC = () => {
-  return <div />;
-}
+  return (
+    <Container>
+      <Warpper>
+        <MenuBar />
+        <Main />
+        <SideBar />
+      </Warpper>
+    </Container>
+  );
+};
 
 export default Layout;
