@@ -10,7 +10,8 @@
 #
 
 
-![](https://i.ibb.co/d0bNzjD/screenshot-localhost-3000-1594244555469.png)
+<p align="center"><img src="https://i.ibb.co/Hd9JhW3/screenshot-localhost-3000-1594244733748-2.png"/></p>
+
 
 ---
 
