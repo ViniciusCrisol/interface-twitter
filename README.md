@@ -10,8 +10,8 @@
 #
 
 <p align="center"><img src="https://i.ibb.co/X2q9Q1Q/desktop.png"/></p>
-<p align="center"><img src="https://i.ibb.co/F8cRq3F/tablet.png"/></p>
-<p align="center"><img src="https://i.ibb.co/vHhB06Q/mobile.png"/></p>
+<p align="center"><img src="https://i.ibb.co/4TzcDrX/screenshot-localhost-3000-1594244400164.png"/></p>
+<p align="center"><img src="https://i.ibb.co/d0bNzjD/screenshot-localhost-3000-1594244555469.png"/></p>
 
 ---
 
